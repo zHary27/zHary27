@@ -14,6 +14,5 @@ I'm still a beginner but I hope you like my profile and repositories! Thanks!
 Tbh, I don't know exactly why but I love coding. Since I was 10 or less, I don't remember rn, I like coding.
 # Stats 📄
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zHary27&show_icons=true&theme=dark)
-https://www.codewars.com/users/zHary_/badges/micro
 
 ## Discord: Hary#4191
